@@ -14,14 +14,16 @@ My work focuses on turning messy processes into clear, scalable systems: AI-assi
 
 ## What I'm building
 
-I'm currently developing public portfolio projects inspired by real operational problems I've worked on professionally, using fictional or synthetic data so no employer or client information is exposed.
+I'm developing public portfolio projects inspired by real operational problems I've worked on professionally, using fictional or synthetic data so no employer or client information is exposed.
 
-Areas I'm exploring include:
+Current portfolio roadmap:
 
-- **AI Skill Registry** — managing reusable AI skills, owners, versions, dependencies, and deployment readiness
+- **AI Proposal Automation** — Python-based proposal generation from structured intake through human review
 - **AI Workflow Evaluation Framework** — testing AI systems at component, workflow, and end-to-end levels
-- **AI Operations Dashboard** — tracking adoption, quality, usage, failures, and time saved
-- **Automation Systems** — connecting intake, structured data, AI generation, human review, and document workflows
+- **AI Skill Registry** — managing reusable AI skills, owners, versions, dependencies, evaluation status, and deployment readiness
+- **Operations Automation Lab** — practical automation patterns for intake, approvals, documents, onboarding, and status tracking
+
+See [`PORTFOLIO_ROADMAP.md`](PORTFOLIO_ROADMAP.md) for the build plan and project blueprints.
 
 ## Tools & technologies
 
